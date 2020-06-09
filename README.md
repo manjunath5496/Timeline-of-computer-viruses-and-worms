@@ -272,7 +272,7 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(9).pdf" style="text-decoration:none;">Computer Viruses, Artificial Life and Evolution: The Little Black Book of Computer Viruses, Vol 2</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(10).pdf" style="text-decoration:none;">Broken Stars: Contemporary Chinese Science Fiction in Translation </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(10).pdf" style="text-decoration:none;">Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(11).pdf" style="text-decoration:none;"> COMPUTER VIRUSES: The Technology and Evolution of an Artificial Life Form</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(12).pdf" style="text-decoration:none;">Computers Under Attack: Intruders, Worms, and Viruses</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(13).pdf" style="text-decoration:none;">Compute's Computer Viruses </a></li>
@@ -318,6 +318,10 @@
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(34).pdf" style="text-decoration:none;">Hack-X-Crypt: A Straight Forward Guide Towards Ethical Hacking And Cyber Security</a></li>
  
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(35).pdf" style="text-decoration:none;">Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(36).pdf" style="text-decoration:none;">Malware Data Science: Attack Detection and Attribution</a></li> 
    
 
 </ul>
