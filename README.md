@@ -252,3 +252,73 @@
 <ul>
 <li>November:&nbsp;<a title="Titanium (malware)" href="https://en.wikipedia.org/wiki/Titanium_(malware)">Titanium</a>&nbsp;is an advanced and insidious&nbsp;<a title="Backdoor (computing)" href="https://en.wikipedia.org/wiki/Backdoor_(computing)">backdoor</a>&nbsp;<a title="Malware" href="https://en.wikipedia.org/wiki/Malware">malware</a>&nbsp;<a title="Advanced persistent threat" href="https://en.wikipedia.org/wiki/Advanced_persistent_threat">APT</a>, developed by&nbsp;<a title="PLATINUM (cybercrime group)" href="https://en.wikipedia.org/wiki/PLATINUM_(cybercrime_group)">PLATINUM</a>.</li>
 </ul>
+</br>
+<h2>Books </h2>
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(1).pdf" style="text-decoration:none;">A critical evaluation of the destructive impact of computer viruses on files stored by personal computer users</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(2).pdf" style="text-decoration:none;">A Pathology of Computer Viruses</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(3).pdf" style="text-decoration:none;">Berkshire Encyclopedia of Human-Computer Interaction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(4).pdf" style="text-decoration:none;">Computer Security Basics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(5).pdf" style="text-decoration:none;">Computer viruses: from theory to applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(6).pdf" style="text-decoration:none;">Computer Viruses and Malware</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(7).pdf" style="text-decoration:none;">Computer Viruses and Other Malicious Software: A Threat to the Internet Economy</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(8).pdf" style="text-decoration:none;">Computer Viruses For Dummies </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(9).pdf" style="text-decoration:none;">Computer Viruses, Artificial Life and Evolution: The Little Black Book of Computer Viruses, Vol 2</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(10).pdf" style="text-decoration:none;">Broken Stars: Contemporary Chinese Science Fiction in Translation </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(11).pdf" style="text-decoration:none;"> COMPUTER VIRUSES: The Technology and Evolution of an Artificial Life Form</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(12).pdf" style="text-decoration:none;">Computers Under Attack: Intruders, Worms, and Viruses</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(13).pdf" style="text-decoration:none;">Compute's Computer Viruses </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(14).pdf" style="text-decoration:none;">Cybersecurity: Protecting Critical Infrastructures from Cyber Attack and Cyber Warfare</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(15).pdf" style="text-decoration:none;">Elements of Computer Security</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(16).pdf" style="text-decoration:none;">Foundations of Computer Security</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(17).rar" style="text-decoration:none;">Guide to Computer Viruses: How to Avoid Them, how to Get Rid of Them, and how to Get Help</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(18).pdf" style="text-decoration:none;">Have You Locked the Castle Gate?: Home and Small Business Computer Security</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(19).pdf" style="text-decoration:none;">Computer Misuse</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(20).pdf" style="text-decoration:none;">PC Magazine: Fighting Spyware, Viruses, and Malware</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(21).pdf" style="text-decoration:none;">A Short Course on Computer Viruses</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(22).pdf" style="text-decoration:none;">Simple Computer Security: Disinfect Your PC</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(23).pdf" style="text-decoration:none;">The A-Z of computer and data security threats</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(24).pdf" style="text-decoration:none;">The Art of Computer Virus Research and Defense</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(25).pdf" style="text-decoration:none;">The Giant Black Book of Computer Viruses</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(26).pdf" style="text-decoration:none;">The Little Black Book of Computer Viruses: Volume One: The Basic Technology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(27).pdf" style="text-decoration:none;">Turing's Cathedral: The Origins of the Digital Universe</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(28).pdf" style="text-decoration:none;">Formal Models of Reproduction: from Computer Viruses to Artificial Life</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(29).pdf" style="text-decoration:none;">Identifying Malicious Code Through Reverse Engineering </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(30).pdf" style="text-decoration:none;">Information Security: A Manager's Guide to Thwarting Data Thieves and Hackers</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(31).pdf" style="text-decoration:none;">Spam nation: the inside story of organized cybercrime — from global epidemic to your front door</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(32).pdf" style="text-decoration:none;">The Future of Violence: Robots and Germs, Hackers and Drones — Confronting A New Age of Threat</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(33).pdf" style="text-decoration:none;">Guide to Computer Forensics and Investigations</a></li>
+
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-computer-viruses-and-worms/blob/master/vir(34).pdf" style="text-decoration:none;">Hack-X-Crypt: A Straight Forward Guide Towards Ethical Hacking And Cyber Security</a></li>
+ 
+   
+
+</ul>
+</br>
